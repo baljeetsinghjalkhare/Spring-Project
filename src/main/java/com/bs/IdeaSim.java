@@ -1,6 +1,6 @@
 package com.bs;
 
-public class IdeaSim {
+public class IdeaSim implements Sim {
 private String number;
 	
 	public IdeaSim(String number)

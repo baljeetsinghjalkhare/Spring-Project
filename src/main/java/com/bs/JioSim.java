@@ -1,6 +1,6 @@
 package com.bs;
 
-public class JioSim {
+public class JioSim implements Sim{
 	private String number;
 	
 	public JioSim(String number)
